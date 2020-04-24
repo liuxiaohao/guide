@@ -8,3 +8,13 @@
 
 [letter](letter.md)
 
+[简单方格策略](https://github.com/Kucoin-academy/simple-grid)
+
+[震荡突破策略](https://github.com/Kucoin-academy/shock-strategy)
+
+[布林强盗突破策略](https://github.com/Kucoin-academy/bollinger-strategy)
+
+[均仓策略](https://github.com/Kucoin-academy/avg-position)
+
+[高频跨期套利策略](https://github.com/Kucoin-academy/high-frequency)
+
