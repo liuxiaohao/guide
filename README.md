@@ -8,6 +8,8 @@
 
 [letter](letter.md)
 
+下面是一些简单的策略，有些策略只有文字描述和说明，有些策略我们实现了简单的demo（只是简单的demo会有很多bug，要想持续赚钱还需要自己优化），供大家参考使用
+
 [简单网格策略](https://github.com/Kucoin-academy/simple-grid)
 
 [震荡突破策略](https://github.com/Kucoin-academy/shock-strategy)
