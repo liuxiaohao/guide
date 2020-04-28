@@ -2,9 +2,7 @@
     This project is supported by KuCoin and is maintained by community trading enthusiasts. It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
 Here is a simple flow chart for getting started:  
 
-![flow_chatt](flow_chatt.jpg)  
-
-
+![flow_chart](flow_chart.jpg)
 
 Hope the following introductory article that explains some simple logic of quantitative trading could help you get started:  
 
