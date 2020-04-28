@@ -20,15 +20,13 @@ The following are some simple strategies, some of which have only text descripti
 
 [Avg_position_strategy](https://github.com/Kucoin-academy/avg-position)
 
-[High_frequency_Calendar_Spread_Arbitrage](https://github.com/Kucoin-academy/high-frequency)
+[High_frequency_calendar_spread_arbitrage](https://github.com/Kucoin-academy/high-frequency)
 
 [High_frequency_futures_cash_arbitrage](https://github.com/Kucoin-academy/spot-contract)
 
-[期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+[Triangular_arbitrage](https://github.com/Kucoin-academy/triangle-arbitrage)
 
-[三角套利策略](https://github.com/Kucoin-academy/triangle-arbitrage)
+[Fixed_investment_strategy](https://github.com/Kucoin-academy/aip-strategy)
 
-[定投策略](https://github.com/Kucoin-academy/aip-strategy)
-
-[倍投策略](https://github.com/Kucoin-academy/double-strategy)
+[Double_investment_strategy](https://github.com/Kucoin-academy/double-strategy)
 

@@ -23,7 +23,7 @@
 
 [高频跨期套利策略](https://github.com/Kucoin-academy/high-frequency)
 
-[期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+[高频期现套利策略](https://github.com/Kucoin-academy/spot-contract)
 
 [三角套利策略](https://github.com/Kucoin-academy/triangle-arbitrage)
 
