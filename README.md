@@ -2,9 +2,7 @@
     This project is supported by KuCoin and is maintained by community trading enthusiasts. It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
 Here is a simple flow chart for getting started:  
 
-![flow_chatt](flow_chatt.jpg)  
-
-
+![flow_chart](flow_chart.jpg)
 
 Hope the following introductory article that explains some simple logic of quantitative trading could help you get started:  
 
@@ -22,15 +20,13 @@ The following are some simple strategies, some of which have only text descripti
 
 [Avg_position_strategy](https://github.com/Kucoin-academy/avg-position)
 
-[High_frequency_Calendar_Spread_Arbitrage](https://github.com/Kucoin-academy/high-frequency)
+[High_frequency_calendar_spread_arbitrage](https://github.com/Kucoin-academy/high-frequency)
 
 [High_frequency_futures_cash_arbitrage](https://github.com/Kucoin-academy/spot-contract)
 
-[期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+[Triangular_arbitrage](https://github.com/Kucoin-academy/triangle-arbitrage)
 
-[三角套利策略](https://github.com/Kucoin-academy/triangle-arbitrage)
+[Fixed_investment_strategy](https://github.com/Kucoin-academy/aip-strategy)
 
-[定投策略](https://github.com/Kucoin-academy/aip-strategy)
-
-[倍投策略](https://github.com/Kucoin-academy/double-strategy)
+[Double_investment_strategy](https://github.com/Kucoin-academy/double-strategy)
 
