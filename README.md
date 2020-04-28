@@ -26,3 +26,11 @@ The following are some simple strategies, some of which have only text descripti
 
 [High_frequency_futures_cash_arbitrage](https://github.com/Kucoin-academy/spot-contract)
 
+[期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+
+[三角套利策略](https://github.com/Kucoin-academy/triangle-arbitrage)
+
+[定投策略](https://github.com/Kucoin-academy/aip-strategy)
+
+[倍投策略](https://github.com/Kucoin-academy/double-strategy)
+
