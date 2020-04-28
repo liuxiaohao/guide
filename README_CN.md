@@ -12,6 +12,7 @@
 
 下面是一些简单的策略，部分策略只有文字描述和说明，部分策略我们实现了简单的demo（只是简单的demo，会有很多bug，要想持续赚钱还需自己优化），仅供大家参考使用：
 
+
 [简单网格策略](https://github.com/Kucoin-academy/simple-grid)
 
 [震荡突破策略](https://github.com/Kucoin-academy/shock-strategy)
@@ -22,5 +23,11 @@
 
 [高频跨期套利策略](https://github.com/Kucoin-academy/high-frequency)
 
-[高频期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+[期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+
+[三角套利策略](https://github.com/Kucoin-academy/triangle-arbitrage)
+
+[定投策略](https://github.com/Kucoin-academy/aip-strategy)
+
+[倍投策略](https://github.com/Kucoin-academy/double-strategy)
 
