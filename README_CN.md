@@ -1,6 +1,16 @@
 # Guide
 
+[![Logo](https://img.shields.io/badge/KuCoin-KuMex-yellowgreen?style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub stars](https://img.shields.io/github/stars/Kucoin-academy/Guide.svg?label=Stars&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub forks](https://img.shields.io/github/forks/Kucoin-academy/Guide.svg?label=Fork&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub issues](https://img.shields.io/github/issues/Kucoin-academy/Guide.svg?label=Issue&style=flat-square)](https://github.com/Kucoin-academy/Guide/issues)
+
+[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README.md)
+[![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
+
     这个项目是由kucoin支持，社群交易爱好者共同维护的项目，用于引导更多的人通过在数字货币市场做量化交易来赚取”睡后“收入。
+
+:tada: **如果你对该项目有兴趣，请点击右上角star给予我们支持和动力以更新更多的交易策略，也非常欢迎你点击右上角watching来通过接收更新通知持续关注该项目**。
 
 下面是一个简易的入门流程图  
 
@@ -31,6 +41,3 @@
 
 [倍投策略](https://github.com/Kucoin-academy/double-strategy)
 
-
-
-**如果你对该项目有兴趣，请点击右上角star给予我们支持和动力以更新更多的交易策略，也非常欢迎你点击右上角watching来通过接收更新通知持续关注该项目**。
