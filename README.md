@@ -11,6 +11,9 @@
 
     This project is supported by KuCoin and is maintained by community trading enthusiasts. 
     It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
+
+:tada: **If you are interested in this project, please click the star in the upper right corner to give us support and motivation to update more trading strategies. You are also very welcome to click the watching in the upper right corner to continue to follow the project by receiving update notifications**.
+
 Here is a simple flow chart for getting started:  
 
 ![flow_chart](flow_chart.jpg)
@@ -40,8 +43,4 @@ The following are some simple strategies, some of which have only text descripti
 [Fixed_investment_strategy](https://github.com/Kucoin-academy/aip-strategy)
 
 [Double_investment_strategy](https://github.com/Kucoin-academy/double-strategy)
-
-
-
-**If you are interested in this project, please click the star in the upper right corner to give us support and motivation to update more trading strategies. You are also very welcome to click the watching in the upper right corner to continue to follow the project by receiving update notifications**.
 
