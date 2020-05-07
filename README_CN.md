@@ -31,3 +31,6 @@
 
 [倍投策略](https://github.com/Kucoin-academy/double-strategy)
 
+
+
+**如果你对该项目有兴趣，请点击右上角star给予我们支持和动力以更新更多的交易策略，也非常欢迎你点击右上角watching来通过接收更新通知持续关注该项目**。

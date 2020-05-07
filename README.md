@@ -30,3 +30,6 @@ The following are some simple strategies, some of which have only text descripti
 
 [Double_investment_strategy](https://github.com/Kucoin-academy/double-strategy)
 
+
+
+**If you are interested in this project, please click the star in the upper right corner to give us support and motivation to update more trading strategies. You are also very welcome to click the watching in the upper right corner to continue to follow the project by receiving update notifications**.
