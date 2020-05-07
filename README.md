@@ -1,4 +1,19 @@
-# Guide
+# Guide 
+
+[![Logo](https://img.shields.io/badge/KuCoin-KuMex-yellowgreen?style=flat-square)](https://github.com/Kucoin-academy/Guide)
+
+[![GitHub stars](https://img.shields.io/github/stars/Kucoin-academy/Guide.svg?label=Stars&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+
+[![GitHub forks](https://img.shields.io/github/forks/Kucoin-academy/Guide.svg?label=Fork&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+
+[![GitHub issues](https://img.shields.io/github/issues/Kucoin-academy/Guide.svg?label=Issue&style=flat-square)](https://github.com/Kucoin-academy/Guide/issues)
+
+[![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
+
+[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README.md)
+
+
+
     This project is supported by KuCoin and is maintained by community trading enthusiasts. It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
 Here is a simple flow chart for getting started:  
 
@@ -33,3 +48,4 @@ The following are some simple strategies, some of which have only text descripti
 
 
 **If you are interested in this project, please click the star in the upper right corner to give us support and motivation to update more trading strategies. You are also very welcome to click the watching in the upper right corner to continue to follow the project by receiving update notifications**.
+
