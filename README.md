@@ -9,7 +9,8 @@
 [![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
 
 
-    This project is supported by KuCoin and is maintained by community trading enthusiasts. It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
+    This project is supported by KuCoin and is maintained by community trading enthusiasts. 
+    It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
 Here is a simple flow chart for getting started:  
 
 ![flow_chart](flow_chart.jpg)
