@@ -1,24 +1,46 @@
-# guide
-    这个项目是由kucoin支持，社群交易爱好的维护的项目，用于引导更多的人通过在数字货币做量化交易来赚取”睡后“收入。
-下面是一个简易的入门流程图
+# Guide 
 
-![](user.jpg)
+[![Logo](https://img.shields.io/badge/KuCoin-KuMex-yellowgreen?style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub stars](https://img.shields.io/github/stars/Kucoin-academy/Guide.svg?label=Stars&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub forks](https://img.shields.io/github/forks/Kucoin-academy/Guide.svg?label=Fork&style=flat-square)](https://github.com/Kucoin-academy/Guide)
+[![GitHub issues](https://img.shields.io/github/issues/Kucoin-academy/Guide.svg?label=Issue&style=flat-square)](https://github.com/Kucoin-academy/Guide/issues)
 
-这里还有一篇入门的文章阐述一些简单的逻辑希望能够帮助到你入门
+[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README.md)
+[![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
 
-[letter](letter.md)
 
-下面是一些简单的策略，有些策略只有文字描述和说明，有些策略我们实现了简单的demo（只是简单的demo会有很多bug，要想持续赚钱还需要自己优化），供大家参考使用
+    This project is supported by KuCoin and is maintained by community trading enthusiasts. 
+    It is used to guide more people to earn "after sleep" income by doing quantitative trading in the digital currency market.
 
-[简单网格策略](https://github.com/Kucoin-academy/simple-grid)
+ :point_right:**If you are interested in this project, please click the star in the upper right corner to give us support and motivation to update more trading strategies. You are also very welcome to click the watching in the upper right corner to continue to follow the project by receiving update notifications**.
 
-[震荡突破策略](https://github.com/Kucoin-academy/shock-strategy)
+Here is a simple flow chart for getting started:  
 
-[布林强盗突破策略](https://github.com/Kucoin-academy/bollinger-strategy)
+![flow_chart](./img/flow_chart.jpg)
 
-[均仓策略](https://github.com/Kucoin-academy/avg-position)
+Hope the following introductory article that explains some simple logic of quantitative trading could help you get started:  
 
-[高频跨期套利策略](https://github.com/Kucoin-academy/high-frequency)
+[letter](letter.md)  
 
-[高频期现套利策略](https://github.com/Kucoin-academy/spot-contract)
+  
+
+The following are some simple strategies, some of which have only text descriptions and instructions, and some strategies have implemented a simple demo (just a simple demo, there will be many bugs, optimize the strategies to continue making money), for reference only:  
+
+[Simple Grid Strategy](https://github.com/Kucoin-academy/simple-grid)
+
+[Shock Strategy](https://github.com/Kucoin-academy/shock-strategy)
+
+[Bollinger Strategy](https://github.com/Kucoin-academy/bollinger-strategy)
+
+[Avg Position Strategy](https://github.com/Kucoin-academy/avg-position)
+
+[High-Frequency Calendar Spread Arbitrage](https://github.com/Kucoin-academy/high-frequency)
+
+[High-Frequency Futures Cash Arbitrage](https://github.com/Kucoin-academy/spot-contract)
+
+[Triangular Arbitrage](https://github.com/Kucoin-academy/triangle-arbitrage)
+
+[Fixed Investment Strategy](https://github.com/Kucoin-academy/aip-strategy)
+
+[Double Investment Strategy](https://github.com/Kucoin-academy/double-strategy)
 
